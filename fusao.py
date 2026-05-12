@@ -1,0 +1,4 @@
+
+
+imagens = gibi.namelist()
+
