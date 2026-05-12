@@ -1,6 +1,7 @@
 
 
 import rarfile
+import os
 
 rarfile.UNRAR_TOOL = "UnRAR.exe"
 
